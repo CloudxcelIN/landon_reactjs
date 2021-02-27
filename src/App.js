@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Less than a week
+          Learn React more and create great apps and games for kids
         </a>
       </header>
     </div>
